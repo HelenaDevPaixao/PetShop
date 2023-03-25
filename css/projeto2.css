@@ -73,7 +73,7 @@ header{
  
 .titulos{
     width: 100%;
-    height: 65px;
+    height: 100px;
     background-color: #FCBF6B;
     text-align: center;
     color: #fff;
@@ -193,6 +193,6 @@ footer{
 .tamanho{
     height: 30px;
     width: 30px;
+    text-decoration: none;
 }
-
 
